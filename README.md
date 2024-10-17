@@ -44,5 +44,5 @@ source .matriculas/scripsts/activate
    ```bash
    deactivate
    ```
-   cd
+   cdtre
 
